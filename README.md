@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Internacionals Projects
 - 📫 How to reach me...
 @kevdux in Twitter
-@x_keviinx
+@x_keviinx in Instagram ;)
 
 <!---
 kevinrdf/kevinrdf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
