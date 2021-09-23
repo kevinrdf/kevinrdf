@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @kevinrdf
-- 👀 I’m interested in books, tv, music, soccer.
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on Internacionals Projects
-- 📫 How to reach me...
-@kevdux in Twitter
-@x_keviinx in Instagram ;)
+- 👋 Hola, soy Kevin (@kevinrdf)
+- 👀 Me interesan los libros, la television, la musica y el futbol.
+- 🌱 Actualmente, estudio Ciencia de la Computación, en UTEC
+- 💞️ Mi meta a futuro es colaborar en proyectos internacionales
+- 📫 ¿Como contactarme? ...
+@kevdux en Twitter y @x_keviinx en Instagram ;)
+
+- 📫 Mi correo --->> kevin.dulanto@utec.edu.pe
 
 <!---
 kevinrdf/kevinrdf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
