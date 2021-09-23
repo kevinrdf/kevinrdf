@@ -1,4 +1,7 @@
-- 👋 **Hola, soy Kevin (@kevinrdf)**
+👋 **Hola, soy Kevin (@kevinrdf)**
+
+Tengo 18 años. Vivo en Lima, Perú. Busco aprender los conceptos de programacion, para que, a futuro, pueda contribuir en el desarrollo digital de mi pais y estar a la altura de los desafíos internacionales.
+
 - 👀 Me interesan los libros, la television, la musica y el futbol.
 - 💻 Actualmente, estudio Ciencia de la computación, en UTEC
 - 💞️ Mi meta a futuro es colaborar en proyectos internacionales
