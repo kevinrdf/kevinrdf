@@ -12,5 +12,7 @@ Tengo 18 años. Vivo en Lima, Perú. Busco aprender los conceptos de programacio
 
 <!---
 kevinrdf/kevinrdf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your change
 --->
+-Es un excelente compañer, con vista hacia un gran futuro nuevo, muy talentoso con vista hacia un futuro nuevo e innovador para el benficio de la sociedad.
+Por Jerimy Pierre Sandoval Rivera.
