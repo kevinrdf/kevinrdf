@@ -21,5 +21,5 @@ You can click the Preview link to take a look at your change
 (*Jerimy Pierre Sandoval Rivera*)
 
 
-[![Spotify](spotify-lc6b47e7e-kevinrdf.vercel.app)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](spotify-lc6b47e7e-kevinrdf.vercel.app)](https://open.spotify.com/user/krDf)
 
