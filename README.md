@@ -19,3 +19,7 @@ You can click the Preview link to take a look at your change
 
 "Es un excelente compañero, con vista hacia un gran futuro nuevo, muy talentoso con vista hacia un futuro nuevo e innovador para el benficio de la sociedad"
 (*Jerimy Pierre Sandoval Rivera*)
+
+
+[![Spotify](spotify-lc6b47e7e-kevinrdf.vercel.app)](https://open.spotify.com/user/USER_NAME)
+
