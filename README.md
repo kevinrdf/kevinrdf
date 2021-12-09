@@ -12,9 +12,9 @@
 ### -> [@x_kevdux](https://twitter.com/x_kevdux) en Twitter
 ### -> [@x_keviinx](https://www.instagram.com/x_keviinx/) en Instagram
 
-## 📫 Mi correo institucional --->> kevin.dulanto@utec.edu.pe
+## 📫 Mi correo institucional ---> kevin.dulanto@utec.edu.pe
 
-## 📫 Mi correo personal --->> kevindulanto10@gmail.com
+## 📫 Mi correo personal ---> kevindulanto10@gmail.com
 
 <!---
 kevinrdf/kevinrdf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
