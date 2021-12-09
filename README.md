@@ -9,8 +9,8 @@
 ### 💻 Actualmente, estudio Ciencia de la computación, en UTEC
 ### 💞️ Mi meta a futuro es colaborar en proyectos internacionales
 ### 📱 ¿Como contactarme? ...
-### @kevdux en Twitter
-### @x_keviinx en Instagram
+### -> @kevdux en Twitter
+### -> @x_keviinx en Instagram
 
 ## 📫 Mi correo institucional --->> kevin.dulanto@utec.edu.pe
 
