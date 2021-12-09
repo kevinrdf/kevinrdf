@@ -1,4 +1,4 @@
-# Hi! WELCOME TO MY GITHUB 💻
+# HI! WELCOME TO MY GITHUB 💻
 
 ![This is an image](https://i.pinimg.com/originals/f2/51/88/f25188ba611ce680d901a0bc38beaf05.jpg)
 
